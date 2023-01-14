@@ -1,0 +1,23 @@
+{
+  "name": "intro-section-with-dropdown-navigation-main",
+  "description": "**IN-PROGRESS**",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinalr/intro-section-with-dropdown-navigation-main.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinalr/intro-section-with-dropdown-navigation-main/issues"
+  },
+  "homepage": "https://github.com/tinalr/intro-section-with-dropdown-navigation-main#readme"
+}
